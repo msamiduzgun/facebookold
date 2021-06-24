@@ -1,0 +1,38 @@
+.logo
+{
+	margin-left: 200px;
+}
+.giris {
+	width: 150px;
+	height: 25px;
+}
+.sifre{
+	width: 150px;
+	height: 25px;
+}
+
+.buton {
+	color: #fff;
+	width: 65px;
+	height: 25px;
+	border: 1px solid #555555;
+	background-color: #4267B2;
+	padding: 0 3px;
+	font-size: 12px;
+	font-weight: bolder;
+}
+.iletisim {
+	color: #0e385f;
+    font-weight: bold;
+    line-height: 30px;
+    margin-top: 45px;
+    margin-left: 200px;
+    font-size: 20px;
+    width: 450px;
+}
+a{
+	text-decoration: none;
+}
+footer a {
+	color: #244598;
+}
